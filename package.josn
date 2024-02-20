@@ -1,0 +1,12 @@
+{
+  "name": "Text-To-Speech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "THE BOSS9345",
+  "license": "MIT",
+    "dependencies": {
+    "gtts": "^0.2.1",
+    "openai": "^4.28.0"
+  }
+}
